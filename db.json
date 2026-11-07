@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "fullName": "John Doe",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop",
+      "createdAt": "2026-02-17T10:00:00Z"
+    },
+    {
+      "username": "jasim",
+      "email": "jasim@gmail.com",
+      "password": "123456",
+      "fullName": "jasimkp",
+      "createdAt": "2026-10-05T09:02:58.898Z",
+      "id": "KF7jmsyqYg0"
+    },
+    {
+      "username": "One_MJ_333",
+      "email": "bloom5056@gmail.com",
+      "password": "09877776",
+      "fullName": "Muhammed Jasim",
+      "createdAt": "2026-10-05T09:31:11.189Z",
+      "id": "451lvdkc7nM"
+    },
+    {
+      "username": "prajwa7s",
+      "email": "prajwalcodess@gmail.com",
+      "password": "blahhblahh",
+      "fullName": "prajwal s",
+      "createdAt": "2026-11-05T09:50:20.509Z",
+      "id": "LxELeDGDWpQ"
+    },
+    {
+      "username": "fabin",
+      "email": "fabin@gmail.com",
+      "password": "fabin123",
+      "fullName": "fabin",
+      "createdAt": "2026-11-06T03:52:59.537Z",
+      "id": "Yokkhoq2GTo"
+    },
+    {
+      "username": "fabin11",
+      "email": "fabin@gmail.com",
+      "password": "fabin123",
+      "fullName": "fabin1",
+      "createdAt": "2026-11-06T15:00:36.369Z",
+      "id": "3Sc-7iC86Fo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
